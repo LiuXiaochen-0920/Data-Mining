@@ -39,3 +39,13 @@ This dataset contains three files:<br>
 * winemag-data-130k-v2.csv contains 10 columns and 130k rows of wine reviews.
 * winemag-data_first150k.csv contains 10 columns and 150k rows of wine reviews. 
 * winemag-data-130k-v2.json contains 6919 nodes of wine reviews.
+
+## 2 [Oakland Crime Statistics 2011 to 2016](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016)
+Explore open data from the city of Oakland
+
+### Description
+### Content
+More details about each file are in the individual file descriptions.
+
+### Context
+This is a dataset hosted by the city of Oakland in California. The organization has an open data platform found here and they update their information according to the amount of data that is brought in. Explore Oakland's Data using Kaggle and all of the data sources available through the city of Oakland organization page!
