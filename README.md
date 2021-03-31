@@ -36,8 +36,6 @@ After watching Somm (a documentary on master sommeliers) I wondered how I could 
 
 #### Content
 This dataset contains three files:<br> 
-* winemag-data-130k-v2.csv contains 10 columns and 130k rows of wine reviews.<br> 
-<br> 
-* winemag-data_first150k.csv contains 10 columns and 150k rows of wine reviews.<br> 
-<br> 
-* winemag-data-130k-v2.json contains 6919 nodes of wine reviews.<br> 
+* winemag-data-130k-v2.csv contains 10 columns and 130k rows of wine reviews.
+* winemag-data_first150k.csv contains 10 columns and 150k rows of wine reviews. 
+* winemag-data-130k-v2.json contains 6919 nodes of wine reviews.
