@@ -23,22 +23,19 @@
 * 将缺失部分剔除
 * 用最高频率值来填补缺失值
 * 通过属性的相关关系来填补缺失值
-* 通过数据对象之间的相似性来填补缺失值
-注意：在处理后，要可视化地对比新旧数据集。
+* 通过数据对象之间的相似性来填补缺失值<br> 
+注意：在处理后，要可视化地对比新旧数据集。<br> 
 
-数据集
-1 Wine Reviews
-130k wine reviews with variety, location, winery, price, and description
+### 数据集
+1 Wine Reviews <br> 
+130k wine reviews with variety, location, winery, price, and description<br> 
 
-description
+#### description
 Context
 After watching Somm (a documentary on master sommeliers) I wondered how I could create a predictive model to identify wines through blind tasting like a master sommelier would. The first step in this journey was gathering some data to train a model. I plan to use deep learning to predict the wine variety using words in the description/review. The model still won't be able to taste the wine, but theoretically it could identify the wine based on a description that a sommelier could give. If anyone has any ideas on how to accomplish this, please post them!
 
 Content
-This dataset contains three files:
-
-winemag-data-130k-v2.csv contains 10 columns and 130k rows of wine reviews.
-
-winemag-data_first150k.csv contains 10 columns and 150k rows of wine reviews.
-
-winemag-data-130k-v2.json contains 6919 nodes of wine reviews.
+This dataset contains three files:<br> 
+winemag-data-130k-v2.csv contains 10 columns and 130k rows of wine reviews.<br> 
+winemag-data_first150k.csv contains 10 columns and 150k rows of wine reviews.<br> 
+winemag-data-130k-v2.json contains 6919 nodes of wine reviews.<br> 
