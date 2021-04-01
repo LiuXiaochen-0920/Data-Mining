@@ -6,7 +6,7 @@
 ### 2. 数据集
 所选数据集为：<br>  
 * [Wine Reviews](https://www.kaggle.com/zynicide/wine-reviews)
-* [Oakland Crime Statistics 2011 to 2016](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016)
+* [Chicago Building Violations](https://www.kaggle.com/chicago/chicago-building-violations)
 
 ### 3. 数据分析要求
 #### 3.1 数据可视化和摘要
@@ -40,12 +40,12 @@ This dataset contains three files:<br>
 * winemag-data_first150k.csv contains 10 columns and 150k rows of wine reviews. 
 * winemag-data-130k-v2.json contains 6919 nodes of wine reviews.
 
-## 2 [Oakland Crime Statistics 2011 to 2016](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016)
-Explore open data from the city of Oakland
+## 2 [Chicago Building Violations](https://www.kaggle.com/chicago/chicago-building-violations)
+From City of Chicago Open Data
 
 ### Description
 ### Content
-More details about each file are in the individual file descriptions.
+Violations issued by the Department of Buildings from 2006 to the present. Lenders and title companies, please note: These data are historical in nature and should not be relied upon for real estate transactions. For transactional purposes such as closings, please consult the title commitment for outstanding enforcement actions in the Circuit Court of Cook County or the Chicago Department of Administrative Hearings. Violations are always associated to an inspection and there can be multiple violation records to one inspection record. Related Applications: Building Data Warehouse http://www.cityofchicago.org/city/en/depts/bldgs/provdrs/inspect/svcs/building_violationsonline.html. The information presented on this website is informational only and does not necessarily reflect the current condition of the building or property. The dataset contains cases where a respondent has been found to be liable as well as cases where the respondent has been found to be not liable.
 
 ### Context
-This is a dataset hosted by the city of Oakland in California. The organization has an open data platform found here and they update their information according to the amount of data that is brought in. Explore Oakland's Data using Kaggle and all of the data sources available through the city of Oakland organization page!
+This is a dataset hosted by the City of Chicago. The city has an open data platform found here and they update their information according the amount of data that is brought in. Explore the City of Chicago using Kaggle and all of the data sources available through the City of Chicago organization page!
