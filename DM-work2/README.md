@@ -1,5 +1,10 @@
+# 互评作业2: 频繁模式与关联规则挖掘
+## 1. 问题描述
+利用所学数据挖掘技术，选择1个数据集进行频繁模式和关联规则挖掘，并撰写分析报告。
+## 2. 数据集
+所选数据集为：<br>  
+* [Oakland Crime Statistics 2011 to 2016](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016)
 
-## 数据集 Oakland Crime Statistics 2011 to 2016
 ### Content
 More details about each file are in the individual file descriptions.
 
