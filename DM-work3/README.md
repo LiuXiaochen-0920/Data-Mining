@@ -38,13 +38,4 @@ The data is originally from the article Hotel Booking Demand Datasets, written b
 
 The data was downloaded and cleaned by Thomas Mock and Antoine Bichat for #TidyTuesday during the week of February 11th, 2020.
 
-### 3. 提交的内容
-对数据集进行处理的代码
-数据挖掘代码
-挖掘过程的报告：展示挖掘的过程、结果和你的分析
-所选择的问题在README中说明，数据文件不要上传到Github中
-乐学平台提交注意事项：
-### Tips
-仓库地址：记得加上  
-报告：附件，word，pdf，html格式都可以
 
